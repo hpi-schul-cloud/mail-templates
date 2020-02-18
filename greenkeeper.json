@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "default/package.json",
+        "hpi_sc/package.json"
+      ]
+    }
+  }
+}
